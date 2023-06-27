@@ -6526,6 +6526,13 @@ let cards = [
     author: 'Marion',
     githubLink: 'https://github.com/marionjudy13'
   },
+   {
+    artName: 'myplanets',
+    pageLink: './Art/myplanets/index.html',
+    imageLink: './Art/myplanets/myplantesgif.gif',
+    author: 'Silvia',
+    githubLink: 'https://github.com/silviachihaia'
+  }
 ];
 
 // +--------------------------------------------------------------------------------+
